@@ -1,0 +1,8 @@
+deva,26-06-1996,12345,deva@gmail.com,Karanataka
+surya,26-01-1996,23456,surya@gmail.com,AndhraPradesh
+sainath,26-06-1996,45678,sainath@gmail.com,TamilNadu
+vamsi,4-01-1996,78945,vamsi@gmsil.com,Gujarat
+sriakr,24-02-1996,45678,srikar@gmail.com,JammuKashmir
+naren,11-08-1992,78912,naren@gmail.com,WestBengal
+ajith,16-05-1995,12456,ajith@gmail.com,Punjab
+adlen,11-11-1996,36987,adlen@gmail.com,Maharashtra

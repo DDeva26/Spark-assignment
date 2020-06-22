@@ -1,0 +1,10 @@
+AndhraPradesh,AP
+Karnataka,KA
+JammuKashmir,JK
+Gujarat,GJ
+Maharashtra,MH
+Rajasthan,RJ
+Punjab,PB
+TamilNadu,TN
+UttarPradesh,UP
+WestBengal,WB
